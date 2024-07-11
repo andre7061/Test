@@ -28,4 +28,4 @@ const people = [
   { firstName: "Илья", secondName: "Казаков", age: 35, gender: "мужской" },
   { firstName: "Евгений", secondName: "Кузьмин", age: 19, gender: "мужской" },
 ];
-console.log(getUsersNamesInAgeRange(people, "женский")); //27.4
+getUsersNamesInAgeRange(people, "женский"); //27.4
