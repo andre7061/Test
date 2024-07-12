@@ -27,6 +27,5 @@ student1.addMarks(4, 5, 4, 5);
 let student2 = new Student("Артём", "мужской", 25);
 student2.setSubject("Geometry");
 student2.exclude('плохая учёба')
-console.log(student2)
-console.log(student1)
+
 // {name: "Артём", gender: "мужской", age: 25, excluded: "плохая учёба"}
